@@ -24,4 +24,6 @@ Difference between JVM, JDK and JRE.
 
 Phsical structure of JVM: go to wiki.
 
+1）堆(heap): 所有通过new创建的对象的内存都在堆中分配，其大小可以通过-Xmx和-Xms来控制。堆被划分为新生代和旧生代，新生代又被进一步    划分为Eden和Survivor区，最后Survivor由From Space和To Space组成。
+    
   
