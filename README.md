@@ -22,6 +22,6 @@ Difference between JVM, JDK and JRE.
   depending upon the underlying operating system and hardware combination. It is responsible for all the things like garbage
   collection, array bounds checking, etc… JVM is platform dependent.
 
-Phsical structure of JVM:
+Phsical structure of JVM: go to wiki.
 
   
